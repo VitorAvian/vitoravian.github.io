@@ -52,11 +52,9 @@ body {
 }
 
 .fundo {
-    overflow:hidden;
     background-color: #edf3f8;
-    margin: 20px 300px;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    max-width: 800px;
+    margin: 20px auto;
 }
 
 .fundo a{
